@@ -1,0 +1,14 @@
+import::from(io,*).;;
+var sID : integer ; DirectAccess FUNC getSID() returns integer
+inDirectAccess Student CLASS Inherited from Human implements listening , reading,teaching BEGIN
+FUNC myFunc (a integer ;b integer ; var c : float)returns        void    { c <- a + b }
+print('*') counter++ print('helloworld') counter++; printLine('*') ) ;
+DirectAccess var     i , j : float = 3.1e23 ,0.873 ;//
+var s:string
+restricted           var[] Array3 : integer = {[10245, 0x34b21D9 , 101001110101b        ]}
+for( var i:integer= -100;i++){a++      b++     c++        }
+do k-- as_long_as k > 0 ;
+if{ a==b}then print("equal") ; elif ( a > b)     do end
+b <- null;
+restricted var f : string = "hello"
+-- this a comment
